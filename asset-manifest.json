@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/medical-mediator/static/css/main.2b117816.chunk.css",
+    "main.js": "/medical-mediator/static/js/main.424ecf66.chunk.js",
+    "main.js.map": "/medical-mediator/static/js/main.424ecf66.chunk.js.map",
+    "runtime-main.js": "/medical-mediator/static/js/runtime-main.5622b123.js",
+    "runtime-main.js.map": "/medical-mediator/static/js/runtime-main.5622b123.js.map",
+    "static/js/2.ae31652b.chunk.js": "/medical-mediator/static/js/2.ae31652b.chunk.js",
+    "static/js/2.ae31652b.chunk.js.map": "/medical-mediator/static/js/2.ae31652b.chunk.js.map",
+    "index.html": "/medical-mediator/index.html",
+    "static/css/main.2b117816.chunk.css.map": "/medical-mediator/static/css/main.2b117816.chunk.css.map",
+    "static/js/2.ae31652b.chunk.js.LICENSE.txt": "/medical-mediator/static/js/2.ae31652b.chunk.js.LICENSE.txt",
+    "static/media/Business_team_3.8b87c88f.jpg": "/medical-mediator/static/media/Business_team_3.8b87c88f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5622b123.js",
+    "static/js/2.ae31652b.chunk.js",
+    "static/css/main.2b117816.chunk.css",
+    "static/js/main.424ecf66.chunk.js"
+  ]
+}
